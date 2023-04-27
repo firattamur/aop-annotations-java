@@ -7,7 +7,7 @@ This is a simple Java project that demonstrates how to use Aspect-Oriented Progr
 To get started with this project, simply clone the repository to your local machine and import the project into your favorite Java IDE. Once the project is imported, you can run the Main class to see the logging aspect in action.
 
 ```bash
-git clone  
+git clone https://github.com/firattamur/aop-annotations-java
 ```
 
 ## 💻 Implementation Details
